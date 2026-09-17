@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Nunito:wght@400;600;700;800;900&display=swap');
 
 :root {
-  --ink: #17132d;
+  --ink: #7466c5;
   --purple: #6c4bf4;
   --yellow: #ffd84d;
   --pink: #ff75a8;
@@ -15,7 +15,7 @@ body {
   margin: 0;
   color: var(--ink);
   background: var(--cream);
-  font-family: 'Nunito', sans-serif;
+  font-family: 'NB Architekt ', sans-serif;
   overflow-x: hidden;
 }
 a { color: inherit; text-decoration: none; }
